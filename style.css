@@ -116,20 +116,20 @@ section.modulo.parallax::after{
 
 
 section.modulo.parallax-1{
-    background-image: url("/capa1.jpg");
+    background-image: url("capa1.jpg");
 }
 
 
 section.modulo.parallax-2{
-    background-image: url("/capa2.jpg");
+    background-image: url("capa2.jpg");
 }
 
 section.modulo.parallax-3{
-    background-image: url("/capa33.jpg");
+    background-image: url("capa33.jpg");
 }
 
 section.modulo.parallax-4{
-    background-image: url("/capa4.jpg");
+    background-image: url("capa4.jpg");
 }
 
 footer{
